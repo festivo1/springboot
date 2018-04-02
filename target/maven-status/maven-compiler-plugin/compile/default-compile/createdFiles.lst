@@ -1,0 +1,4 @@
+com/utsicom/web/controller/WebController.class
+com/utsicom/web/dao/CategoryDAO.class
+com/utsicom/web/entity/Category.class
+com/utsicom/web/AppInitializer.class
