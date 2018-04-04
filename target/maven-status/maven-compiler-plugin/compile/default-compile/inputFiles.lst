@@ -3,4 +3,4 @@
 /home/utsi/NetBeansProjects/bootdemo/src/main/java/com/utsicom/web/entity/Category.java
 /home/utsi/NetBeansProjects/bootdemo/src/main/java/com/utsicom/web/dao/impl/CategoryDAOImpl.java
 /home/utsi/NetBeansProjects/bootdemo/src/main/java/com/utsicom/web/dao/CategoryDAO.java
-/home/utsi/NetBeansProjects/bootdemo/src/main/java/com/utsicom/web/util/HibernateUtilConfig.java
+/home/utsi/NetBeansProjects/bootdemo/src/main/java/com/utsicom/web/util/HIbernateUtilConfig.java
